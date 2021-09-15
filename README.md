@@ -18,5 +18,4 @@ How to run:-
  3) Run master.py
 
 How do I run client.py in background?
-1) convert client.py into .exe file
-2) use tools such as nssm to run the .exe file as a background windows service
+First convert client.py into .exe file, then use tools such as nssm to run the .exe file as a background windows service

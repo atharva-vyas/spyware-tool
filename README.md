@@ -17,6 +17,8 @@ How to run:-
  2) Run client.py on victim machine
  3) Run master.py
 
+
+
 How do I run client.py in background?
 
 First convert client.py into .exe file, then use tools such as nssm to run the .exe file as a background windows service

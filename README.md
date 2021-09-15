@@ -1,4 +1,4 @@
-# python spyware / RAT
+# Python Spyware / RAT
 
 Features:-
  1) no port forwarding required

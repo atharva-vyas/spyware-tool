@@ -19,6 +19,6 @@ How to run:-
 
 
 
-How do I run client.py in background?
+=>How do I run client.py in background?
 
 First convert client.py into .exe file, then use tools such as nssm to run the .exe file as a background windows service

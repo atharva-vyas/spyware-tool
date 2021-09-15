@@ -4,7 +4,7 @@ Features:-
  1) no port forwarding required
  2) get webcam images in real time
  3) get screenshot images in real time
- 4) browse through victim computers files
+ 4) browse through files on victim computer
  5) download files from victim computer to your local machine
 
 How to Configure:-

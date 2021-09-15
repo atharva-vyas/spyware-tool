@@ -4,7 +4,7 @@ import json
 import os
 
 privatekey = 'admin'
-client = pymongo.MongoClient("mongodb+srv://test00:Abc123@cluster0.qajos.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
+client = pymongo.MongoClient("mongodb+srv://{username}:{password}@cluster0.qajos.mongodb.net/myFirstDatabase?retryWrites=true&w=majority")
 conn = client.main 
 col = conn.server
 
